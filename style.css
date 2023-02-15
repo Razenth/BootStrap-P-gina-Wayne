@@ -20,6 +20,8 @@ body{
 
 .container2{
     background-color:rgba(0, 0, 0, 0.568);
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Raleway', sans-serif;
 }
 
 .formulario{
@@ -42,6 +44,15 @@ body{
 .perrito{
     height: 100px;
     border-radius: 50%;
+}
+
+
+/*    INDEX 3  */
+
+.containerProject{
+    background-color:rgba(0, 0, 0, 0.568) ;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Raleway', sans-serif;
 }
 
 @media (max-width:765px) {
